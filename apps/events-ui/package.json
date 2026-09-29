@@ -48,7 +48,7 @@
 		"safari >= 13"
 	],
 	"dependencies": {
-		"@module-federation/rsbuild-plugin": "^2.5.1",
+		"@module-federation/rsbuild-plugin": "^2.9.1",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"rocketride": "workspace:*",
@@ -57,9 +57,9 @@
 	"devDependencies": {
 		"@rsbuild/core": "~2.0.11",
 		"@rsbuild/plugin-react": "~2.0.1",
-		"typescript": "^5.3.0",
+		"typescript": "^5.9.3",
 		"@types/react": "~18.3.31",
 		"@types/react-dom": "~18.3.7",
-		"@types/tabulator-tables": "~6.2.0"
+		"@types/tabulator-tables": "~6.3.6"
 	}
 }

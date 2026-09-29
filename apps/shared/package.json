@@ -65,11 +65,11 @@
     "@types/react": "~18.3.31",
     "@types/react-dom": "~18.3.7",
     "@types/react-syntax-highlighter": "^15.5.13",
-    "@types/tabulator-tables": "~6.2.0",
+    "@types/tabulator-tables": "~6.3.6",
     "run-script-os": "^1.1.6",
     "svgo": "^3.3.4",
-    "tsx": "~4.23.1",
-    "typescript": "^5.3.0"
+    "tsx": "~4.23.15",
+    "typescript": "^5.9.3"
   },
   "exports": {
     "./api/*": "./src/api/*",
@@ -94,6 +94,6 @@
     "lucide-react": "^0.577.0",
     "rocketride": "workspace:*",
     "shell": "file:../../.rocketride/shell/shell.tgz",
-    "tabulator-tables": "~6.5.2"
+    "tabulator-tables": "~6.5.3"
   }
 }
